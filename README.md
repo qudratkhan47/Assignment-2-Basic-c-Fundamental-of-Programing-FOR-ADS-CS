@@ -10,7 +10,7 @@ Student Information
 -   **Name:** Qudrat Khan
 -   **Roll No.:** 31
 -   **Subject:** Programming Fundamentals
--  **Collage: Govt. Graduate Collage Mianwali
+-   **Collage:** Govt. Graduate Collage Mianwali
 
 **### Programs List ###**
 
